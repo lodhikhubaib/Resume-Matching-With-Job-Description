@@ -38,35 +38,18 @@ While OpenNLP offers rule-based named entity recognition capabilities, spaCy's E
 
 # Sample Results:
 
-1) # Result for instructor
+# 1) Result for instructor
    
  ![image](https://github.com/lodhikhubaib/Resume-Matching-With-Job-Description/assets/88384068/f9a35c65-e350-453b-83bb-b35a16802bc5)
  
-2) # Result for Lecturer:
+# 2) Result for Lecturer:
 
 ![image](https://github.com/lodhikhubaib/Resume-Matching-With-Job-Description/assets/88384068/2280415a-3f9e-45d0-8537-e254092e13ee)
 
-3) # PHP Developer:
+# 3) PHP Developer:
 
 ![image](https://github.com/lodhikhubaib/Resume-Matching-With-Job-Description/assets/88384068/574ac49d-b55a-4b88-bddd-14c826060b87)
 
-4) # Research Assistant:
+# 4) Research Assistant:
 
 ![image](https://github.com/lodhikhubaib/Resume-Matching-With-Job-Description/assets/88384068/422cb5c4-44e7-4222-a1ae-1a13bb4f5ae9)
-
-
-
-
-5) 
-
-
-4) 
-
-   
-3)  
-
-
-2) 
-3) 
-
-
